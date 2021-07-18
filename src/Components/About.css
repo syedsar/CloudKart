@@ -1,0 +1,25 @@
+.about-card{
+    background-color: black;
+    height: max-content ;
+}
+.about-card h2 {
+    color : white
+    
+}
+.about-header{
+    padding-left: 10px;
+    border-left: tomato 2px solid;
+}
+
+figure img {
+    height: 55vh;
+    width: 100%;
+    border-radius: 2%;
+    margin-left: 0%;
+    
+}
+
+.about-section2{
+    background-color:rgb(255, 166, 0);
+    
+}

@@ -1,0 +1,63 @@
+.socail-links{
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+
+.icon{
+    color: #5e5a57;
+}
+
+.footer-logo {
+    margin-top: 20px;
+    
+
+}
+
+.footer-logo a{
+    text-decoration: none;
+    font-weight: 800;
+    font-size: xx-large;
+    color: #5e5a57;
+}
+
+.cmp-text{
+    display:inline;
+}
+.footer-ul li {
+    display: inline;
+}
+
+.footer-ul li a{
+    text-decoration: none;
+    padding: 7px 7px;
+    color: #5e5a57;
+    font-weight: 400;
+    line-height: 24px;
+   font-size: 17px;
+
+}
+
+#li-border{
+    border-right: 2px #5e5a57 solid;
+    
+}
+
+
+/* adding media query */
+
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {  }
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {  }
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { }
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {  }
+
+/* // X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {  }
+
